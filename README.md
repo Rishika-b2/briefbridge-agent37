@@ -1,10 +1,10 @@
 # BriefBridge - Meeting-to-Handoff Agent
 
-Private working prototype. A separate project from LabMate. It turns notes into an evidence-linked action register with unresolved fields visible and no automatic messaging or scheduling.
+Public demonstration prototype. It turns notes into an evidence-linked action register with unresolved fields visible and no automatic messaging or scheduling.
 
 ## Status
 
-Local validator and UI are built. The 13 local unit tests pass. The supplied synthetic validator fixture has four evidence-linked candidate actions and one rejected invented proposal. A genuine Agent37 run on 29 October 2026 created its own four-action proposal, passed all 13 tests and saved a handoff pack. See AGENT37_RUN.md and hosted_run/ for retrieved evidence. No public repository or challenge submission exists.
+Local validator and UI are built. The 13 local unit tests pass. The supplied synthetic validator fixture has four evidence-linked candidate actions and one rejected invented proposal. A genuine Agent37 run on 29 October 2026 created its own four-action proposal, passed all 13 tests and saved a handoff pack. See AGENT37_RUN.md and hosted_run/ for retrieved evidence. Source is published at https://github.com/Rishika-b2/briefbridge-agent37. No challenge submission has been performed.
 
 ## Run locally
 
