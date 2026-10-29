@@ -1,0 +1,32 @@
+{
+  "actions": [
+    {
+      "task": "Draft the welcome checklist",
+      "line": 3,
+      "evidence": "Mira: I will draft the welcome checklist by Friday.",
+      "owner": "Mira",
+      "due": "Friday"
+    },
+    {
+      "task": "Conditional offer: review the accessibility copy only after the checklist is ready",
+      "line": 4,
+      "evidence": "Omar: I can review the accessibility copy after the checklist is ready.",
+      "owner": "Omar",
+      "due": null
+    },
+    {
+      "task": "Draft follow-up clarification: ask whether the FAQ page needs an owner; no owner has been agreed",
+      "line": 5,
+      "evidence": "We discussed an FAQ page, but nobody agreed to own it yet.",
+      "owner": null,
+      "due": null
+    },
+    {
+      "task": "Flag the analytics question for discussion; do not schedule anything",
+      "line": 7,
+      "evidence": "Mira: Please flag the analytics question for discussion; don't schedule anything yet.",
+      "owner": null,
+      "due": null
+    }
+  ]
+}
