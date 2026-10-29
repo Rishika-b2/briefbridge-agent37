@@ -1,0 +1,7 @@
+SYNTHETIC EXAMPLE - not a real meeting or commitment.
+Launch planning notes
+Mira: I will draft the welcome checklist by Friday.
+Omar: I can review the accessibility copy after the checklist is ready.
+We discussed an FAQ page, but nobody agreed to own it yet.
+Decision: keep the pilot small. No launch date was agreed.
+Mira: Please flag the analytics question for discussion; don't schedule anything yet.
