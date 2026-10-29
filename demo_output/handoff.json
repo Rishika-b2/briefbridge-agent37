@@ -1,0 +1,71 @@
+{
+  "project": "BriefBridge",
+  "notes_sha256": "7ca511efed00cbdf0e6c04ac5cda9b9ea5bbb05606dc7fc1f21218250a2cc991",
+  "input_actions": 5,
+  "accepted": 4,
+  "rejected": 1,
+  "actions": [
+    {
+      "task": "Draft the welcome checklist",
+      "line": 3,
+      "evidence": "Mira: I will draft the welcome checklist by Friday.",
+      "owner": "Mira",
+      "due": "Friday",
+      "review": [
+        "Human check required: task meaning, commitment and context are not proven by a text match."
+      ]
+    },
+    {
+      "task": "Review the accessibility copy once the checklist is ready",
+      "line": 4,
+      "evidence": "Omar: I can review the accessibility copy after the checklist is ready.",
+      "owner": "Omar",
+      "due": null,
+      "review": [
+        "due unresolved",
+        "Human check required: task meaning, commitment and context are not proven by a text match."
+      ]
+    },
+    {
+      "task": "Confirm whether the FAQ page needs an owner",
+      "line": 5,
+      "evidence": "We discussed an FAQ page, but nobody agreed to own it yet.",
+      "owner": null,
+      "due": null,
+      "review": [
+        "owner unresolved",
+        "due unresolved",
+        "Human check required: task meaning, commitment and context are not proven by a text match."
+      ]
+    },
+    {
+      "task": "Flag the analytics question for discussion",
+      "line": 7,
+      "evidence": "Mira: Please flag the analytics question for discussion; don't schedule anything yet.",
+      "owner": null,
+      "due": null,
+      "review": [
+        "owner unresolved",
+        "due unresolved",
+        "Human check required: task meaning, commitment and context are not proven by a text match."
+      ]
+    }
+  ],
+  "issues": [
+    "Action 5: evidence does not match the cited source line; rejected."
+  ],
+  "source_lines": [
+    "SYNTHETIC EXAMPLE - not a real meeting or commitment.",
+    "Launch planning notes",
+    "Mira: I will draft the welcome checklist by Friday.",
+    "Omar: I can review the accessibility copy after the checklist is ready.",
+    "We discussed an FAQ page, but nobody agreed to own it yet.",
+    "Decision: keep the pilot small. No launch date was agreed.",
+    "Mira: Please flag the analytics question for discussion; don't schedule anything yet."
+  ],
+  "limitations": [
+    "Text matching checks provenance, not semantic truth.",
+    "Relative dates remain as written. No inferred calendar deadlines.",
+    "No messages sent, invitations created or commitments made."
+  ]
+}
