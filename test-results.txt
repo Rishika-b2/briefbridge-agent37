@@ -1,0 +1,18 @@
+test_bool_line (test_briefbridge.Tests) ... ok
+test_demo (test_briefbridge.Tests) ... ok
+test_due (test_briefbridge.Tests) ... ok
+test_duplicate (test_briefbridge.Tests) ... ok
+test_empty_notes (test_briefbridge.Tests) ... ok
+test_empty_task (test_briefbridge.Tests) ... ok
+test_escape (test_briefbridge.Tests) ... ok
+test_evidence (test_briefbridge.Tests) ... ok
+test_export (test_briefbridge.Tests) ... ok
+test_line (test_briefbridge.Tests) ... ok
+test_owner (test_briefbridge.Tests) ... ok
+test_relative (test_briefbridge.Tests) ... ok
+test_valid (test_briefbridge.Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.002s
+
+OK
